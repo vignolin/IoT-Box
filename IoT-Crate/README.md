@@ -5,4 +5,6 @@ It will include:</p>
   <li>Bluetooth Speaker</li>
   <li>Digital Clock/Pomodoro Timer</li>
   <li>Night Light/Dark Light</li>
+  <li>Wireless Comunication</li>
+  <li>Alarm</li>
 </ul>
