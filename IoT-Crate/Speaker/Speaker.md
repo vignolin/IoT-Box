@@ -1,5 +1,5 @@
 ## Bluetooth Speaker
-<p>I salvaged a pcb from an old bluetooth speaker, added a new lithium rechargeble batery and a new speaker.<br>
+<p>I've salvaged a pcb from an old bluetooth speaker, added a new lithium rechargeble batery and a new speaker.<br>
 I've cut some holes in my crate and  now it has space for:</p>
 <ul>
   <li> The audio jack</li>
