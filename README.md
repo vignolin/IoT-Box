@@ -11,3 +11,7 @@ The speaker is an 8Ω 32w SAMCO, but it can be any 8Ω speaker. It is connected 
 ### Wireless Communication²:
 This a feature requested by my mother so she can communicate with me while I'm at my office. The communication is currently made between 2 NRF24L01 radio modules and the speaker¹ can play a music (and, in the future, live mic sounds)
 to warn something to one side of the communications that can send other signal to stabilish conection.
+
+
+## 📍
+In this repository you'll find the codes for each feauture plus the hole integrated code for the Arduino UNO R3;
